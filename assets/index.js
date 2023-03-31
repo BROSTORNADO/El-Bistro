@@ -6,6 +6,8 @@ import cartIcon from '/food-logos/shopping-cart.png'
 import realCouscous from '/food-logos/couscous.jpg'
 import realSalad from '/food-logos/salade.jpg'
 import realPancakes from '/food-logos/pancakes.jpg'
+import plus from '/food-logos/plus.png'
+import minus from '/food-logos/minus-sign.png'
 export {
   realPancakes,
   realSalad,
@@ -15,4 +17,6 @@ export {
   realDrink,
   realIce,
   cartIcon,
+  plus,
+  minus,
 }
